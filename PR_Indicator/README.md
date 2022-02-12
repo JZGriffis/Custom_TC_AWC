@@ -18,7 +18,8 @@ You will need to already have a custom module created for AWC. That is not cover
   * Samples of these two files are in this repo.
 
 
-* Create a 16x16 SVG icon with the naming convention indicatorCUSTOMNAME16.svg. Place this in the aws2\stage\scr\image folder.
+* Create a 16x16 SVG icon with the naming convention indicatorCUSTOMNAME16.svg. 
+  * Place this in the aws2\stage\scr\image folder.
 
 * Once the files are completed and the icon is in the images folder, rebuild AWC.
 
