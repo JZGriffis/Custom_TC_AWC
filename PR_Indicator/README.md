@@ -37,4 +37,4 @@ You will need to already have a custom module created for AWC. That is not cover
 
 # Notes for typeProperties.json
 
-* Not all properties are loaded when the Item Revision is retrieved. To load pre-load properties to use with indicators, you need to create this typeProperties.json and define for the different types the properties that need pre-loaded. In this case it is our custom xy9_AuthoringPR property.
+* Not all properties are loaded when the Item Revision is retrieved. To pre-load properties to use with indicators, you need to create this typeProperties.json and define for the different types the properties that need pre-loaded. In this case it is our custom xy9_AuthoringPR property.
