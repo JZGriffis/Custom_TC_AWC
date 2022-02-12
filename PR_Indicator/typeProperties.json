@@ -1,0 +1,12 @@
+{
+	"typeProperties": {
+		"ItemRevision": {
+			"additionalProperties": [
+				{
+					"name": "xy9_AuthoringPR"
+				}
+			]
+		}
+	}
+
+}
