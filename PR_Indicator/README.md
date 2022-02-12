@@ -1,6 +1,6 @@
 # PR Indicator
 
-This customization is to show how to add a indicator to show on Item Revisions when it is used in PR using the CMHasProblem relation. This is done by using a custom TypeReference property on the Item Revision to the GnProblemItemRevision's. This property is created in BMIDE and will need ITK to pull the related PR's to the Item Revisions.
+This customization is adding a indicator on Item Revisions when it is used in PR using the CMHasProblem relation. This is done by using a custom TypeReference property on the Item Revision to the GnProblemItemRevision's. This property is created in BMIDE and will need ITK to pull the related PR's to the Item Revisions.
 
 This customization was created and tested in AWC5.2.
 
