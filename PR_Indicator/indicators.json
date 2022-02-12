@@ -1,0 +1,14 @@
+{
+	"pr_indicator": {
+		"iconName": "XY9_AuthoringPR",
+        "tooltip": {
+                "showPropDisplayName": true,
+                "propNames": [
+                    "xy9_AuthoringPR"
+                ]
+            },
+		"modelTypes": [
+			"WorkspaceObject"
+		]
+	}
+}
