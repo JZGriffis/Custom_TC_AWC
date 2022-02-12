@@ -22,3 +22,18 @@ You will need to already have a custom module created for AWC. That is not cover
 
 * Once the files are completed and the icon is in the images folder, rebuild AWC.
 
+
+
+# Notes for indicators.json file
+
+* "iconname" = Icon name without the "indicator" or "16.svg"
+    * File name in images folder: indicatorXY9_AuthoringPR16.svg
+
+* "propNames" = the custom property from BMIDE that we use to show the indicator
+  * xy9_AuthoringPR
+
+
+
+# Notes for typeProperties.json
+
+* Not all properties are loaded when the Item Revision is retrieved. To load pre-load properties to use with indicators, you need to create this typeProperties.json and define for the different types those properties that need pre-loaded. In this case it is our custom xy9_AuthoringPR property.
