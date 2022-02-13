@@ -2,7 +2,7 @@
 
 This customization is adding a indicator in AWC on Item Revisions when that Item Revision is in a Problem Report's CMHasProblemItem relation. This mimic's the behavor of the OOTB Active Change (Authoring Change) in AWC. 
 
-The custom indicator is placed on a custom property on ItemRevision. This property is created in BMIDE as a TypedReference property on ItemRevision referencing GnProblemItemRevision as an unlimited array. To populate this property will need ITK to pull the related PR's to the Item Revisions. That ITK is not covered here.
+The custom indicator is placed on a custom property on ItemRevision. This property is created in BMIDE as a TypedReference property on ItemRevision referencing GnProblemItemRevision as an unlimited array. To populate this property will need ITK to pull the related PR's to the Item Revisions. That ITK is not covered here. Check this link: https://github.com/jessebinford/Teamcenter_ITK
 
 This customization was created and tested in AWC5.2.
 
